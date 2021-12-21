@@ -21,6 +21,7 @@ profilesOnly=""
 ip=""
 head=""
 body=""
+# wlan, lan has been swapped
 lansubnet="192.168"
 wlansubnet="10.0"
 
